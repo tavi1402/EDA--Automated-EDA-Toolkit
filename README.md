@@ -1,1 +1,1 @@
-# EDA--Automated-EDA-Toolkit
+# EDA-Automated-EDA-Toolkit
